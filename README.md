@@ -5,4 +5,4 @@ Repo contains two main jupyter files, main and testing.
 
 the main file contains preprocessing and training code.
 
-test file contains code for testing model on different inputs. to test it, run all the cells in test file and in last cell, change the title variable to predict genres.
+test file contains code for testing model on different inputs. to test it, install all required libs, run all the cells in test file and in last cell, change the title variable to predict genres.
